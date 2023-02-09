@@ -9,6 +9,7 @@ const int GREEN = 13;
 
 const float HIGH_LEVEL = 125;
 const float MED_LEVEL = 100;
+const float ZERO_LEVEL = 0;
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
